@@ -15,4 +15,4 @@ Ejemplo:
 #### Encabezado de Nivel 4
 ##### Encabezado de Nivel 5
 ###### Encabezado de Nivel 6
-####### Encabezado de Nivel 7 //@@@@@@@@@@@
+####### Encabezado de Nivel 7 //En el Nivel 7 se reconoce como texto simple
