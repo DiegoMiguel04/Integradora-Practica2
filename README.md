@@ -16,3 +16,13 @@ Ejemplo:
 ##### Encabezado de Nivel 5
 ###### Encabezado de Nivel 6
 ####### Encabezado de Nivel 7 //En el Nivel 7 se reconoce como texto simple
+
+###### Encabezado de Nivel 6 - Similar a h5 en HTML
+####### Encabezado de Nivel 7 - Solo 6 son los niveles permitidos, a partir de este el maquetado será ignorado. 
+
+### 2. SEPARADORES (SEPARATORS) - PRACTICA 03
+
+Si deseas marcar una separación más visual de contenidos podemos utilizarlos indicando tres caracteres de "-" continuos, en el maquetado. 
+
+EJEMPLO:
+---
