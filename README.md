@@ -119,3 +119,20 @@ Y si deseamos inclur viñetas para hacer una lista de pasos podemos utilizar el 
 - Descargamos el archivo de respaldo de la base de datos (.sql)
 - Restauramos la base de datos usando el comando *mysql *
 > C:/Program Files/MySQL/MySQL Server 8.0/bin/mysql -u root -p password \< respaldo.sql
+
+###Listas ordenadas y listas desordenadas
+Si en nuestra documentación necesitamos incluir información en forma de lista, un elemento tras otro podemos hacerlo utilizando las listas:
+
+**EJEMPLO:**
+Para crear tu primer repositorio en GitHub deberás:
+1. Contar con cuenta de GitHub
+2. Dar clic en el botón *Nuevo repositorio*
+3. Asignarle un nombre a tu repositorio, por ejemplo:   *Practica3-3A*
+4. Asignarle un nivel de privacidad entre:
+5. **Publico:** Si quieres que este disponible para todos los usuarios
+6. **Privado:** Si deseas que solo quien tu decidas pueda visualizar y colaborar en tu proyecto
+7. Definir si incluye un archivo de descripción llamado: *README.md*
+8. Definir si habrá exclusiones de archivos a través del archivo: *.gitignore*
+9. Guardar los cambios. 
+
+  
