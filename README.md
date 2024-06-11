@@ -86,3 +86,17 @@ Algunas veces necesitaremos subraya texto dentro de la documentación, para ello
 **EJEMPLO:**
 
 Texto Texto Texto Texto Texto  Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto *Texto Cursivo* Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto <U>Texto Subrayado</U> Texto.
+
+# Integradora-Practica3
+Continuamos con los comandos básicos de Github para el maquetado de la documentación. 
+
+### 5. Cuadros para Código o Reseñas (BLOCKQUOTES)
+
+Estos elementos son utilizados para resaltar instrucciones específicas para la instalación, configuración y/o inicialzación o mostrar secciones de código fuente. Se maqueta iniciando el texto con un símbolo de mayor que (\>)
+
+**EJEMPLO:**
+Para listar las carpetas y archivos en desde una terminal de sistema operativo Windows debemos ingresar el comando: 
+
+> C:/dir
+
+Después oprimimos la tecla  "Enter".
