@@ -125,14 +125,38 @@ Si en nuestra documentación necesitamos incluir información en forma de lista,
 
 **EJEMPLO:**
 Para crear tu primer repositorio en GitHub deberás:
-1. Contar con cuenta de GitHub
-1. Dar clic en el botón *Nuevo repositorio*
-2. Asignarle un nombre a tu repositorio, por ejemplo:   *Practica3-3A*
-8. Asignarle un nivel de privacidad entre:
-- **Publico:** Si quieres que este disponible para todos los usuarios
-- **Privado:** Si deseas que solo quien tu decidas pueda visualizar y colaborar en tu proyecto
-5. Definir si incluye un archivo de descripción llamado: *README.md*
-50. Definir si habrá exclusiones de archivos a través del archivo: *.gitignore*
-3. Guardar los cambios. 
+1. Contar con cuenta de GitHub. 
+2. Dar clic en el botón *Nuevo repositorio*
+3. Asignarle un nombre a tu repositorio, por ejemplo:   *Practica3-3A*
+4. Asignarle un nivel de privacidad entre:
+5. **Publico:** Si quieres que este disponible para todos los usuarios
+6. **Privado:** Si deseas que solo quien tu decidas pueda visualizar y colaborar en tu proyecto
+7. Definir si incluye un archivo de descripción llamado: *README.md*
+8. Definir si habrá exclusiones de archivos a través del archivo: *.gitignore*
+9. Guardar los cambios. 
+
+
+Si queremos utilizar un orden que comience desde un número específico debemos utilizar código HTML usando los tags  \<ol> y \<li>:
+
+**EJEMPLO:**
+
+<ol start="5">
+ <li>Quinto</li>
+ <li>Sexto</li>
+ <li>Séptimo</li>
+</ol>   
 
   
+#### 7. Ligas (Hipervínculos)
+Las ligas son utilizadas para vincular elementos o referencias del proyecto dentro del mismo repositorio o fuera de el. Y se maquetan utilizanlo los corchetes \[ \], inmediatamente despues pondrémos la liga de referencia entre parentesis \( \)
+
+**EJEMPLO:**
+Mi buscador favorito es: [Google](https://www.google.com). 
+
+Pero si deseamos poner solo las ligas directas o un correo electrónico podemos utilizas los simbolos \< \>
+
+**EJEMPLO:**
+
+Documentación por:  ***Diego Miguel Rivera Chávez***  
+<230260@utxicotepec.edu.mx>
+<http://www.utxicotepec.edu.mx>
