@@ -120,6 +120,7 @@ Y si deseamos inclur viñetas para hacer una lista de pasos podemos utilizar el 
 - Restauramos la base de datos usando el comando *mysql *
 > C:/Program Files/MySQL/MySQL Server 8.0/bin/mysql -u root -p password \< respaldo.sql
 
+
 ### 6. Listas ordenadas y listas desordenadas
 Si en nuestra documentación necesitamos incluir información en forma de lista, un elemento tras otro podemos hacerlo utilizando las listas:
 
@@ -146,6 +147,7 @@ Si queremos utilizar un orden que comience desde un número específico debemos 
  <li>Séptimo</li>
 </ol>   
 
+
   
 #### 7. Ligas (Hipervínculos)
 Las ligas son utilizadas para vincular elementos o referencias del proyecto dentro del mismo repositorio o fuera de el. Y se maquetan utilizanlo los corchetes \[ \], inmediatamente despues pondrémos la liga de referencia entre parentesis \( \)
@@ -161,9 +163,10 @@ Documentación por:  ***Diego Miguel Rivera Chávez***
 <230260@utxicotepec.edu.mx> <http://www.utxicotepec.edu.mx> 
 
 
+
 #### 8. Tablas (TABLES)
 
-Si la documentación lo requiere podemos presentar información en formato de tablas con filas  y columnas, para maquetarlas podemos utiliziar el carácter  \| para delifitar las columnas y \- para delimitar las filas.
+Si la documentación lo requiere podemos presentar información en formato de tablas con filas  y columnas, para maquetarlas podemos utilizar el carácter  \| para delifitar las columnas y \- para delimitar las filas.
 
 **EJEMPLO:**
 
@@ -172,3 +175,4 @@ Si la documentación lo requiere podemos presentar información en formato de ta
 | Fila 1 Celda 1 | Fila 1 Celda 2| Fila 1 Celda 3 | Fila 1 Celda 4 |
 | Fila 2 Celda 1 | Fila 2 Celda 2| Fila 2 Celda 3 | Fila 2 Celda 4 |
 | Fila 3 Celda 1 | Fila 3 Celda 2| Fila 3 Celda 3 | Fila 3 Celda 4 |
+
