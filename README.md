@@ -54,7 +54,7 @@ Este  párrafo esta centrado usando la propiedad de alineación  Este  párrafo 
 Este párrafo estará justificado utilizando la propiedad de alineación Este párrafo estará justificado utilizando la propiedad de alineación Este párrafo estará justificado utilizando la propiedad de alineación Este párrafo estará justificado utilizando la propiedad de alineación Este párrafo estará justificado utilizando la propiedad de alineación Este párrafo estará justificado utilizando la propiedad de alineación Este párrafo estará justificado utilizando la propiedad de alineación Este párrafo estará justificado utilizando la propiedad de alineación
 </p>
  
- ### 4. Texto Enfatizado  (BOLD, ITALIC, BOLD/ITALIC)
+### 4. Texto Enfatizado  (BOLD, ITALIC, BOLD/ITALIC)
  Si el texto que deseamos enfatizar se encuentra de un párrafo, podemos utilizar algunos trucos para ubicarlos en la documentación 
 
 ##### Texto en Negrita (BOLD) 
@@ -226,3 +226,12 @@ Dado que en el ejemplo pasado usando solo markdown no se puede realizar la fusi�
  <td>Fila 6 Celda 3</td>
  <td>Fila 6 Celda 4</td>
 </tr></table>
+
+
+#### 9. Imagenes 
+Si el documento requiere incorporar imágenes, esquemas , modelos, fotografías, o cualquier representación gráfica, utilizaremos la estuctura de la ligas, maquetando el nombre de la imagen entre corchetes con un signo de admiración de cierre y la liga de referencia a la imagen usando parentesis. 
+
+**EJEMPLO:**
+
+![Programacion](https://github.com/DiegoMiguel04/Integradora-Practica2/blob/main/imagen1.jpg)
+
