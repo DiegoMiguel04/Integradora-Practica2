@@ -207,6 +207,7 @@ Dado que en el ejemplo pasado usando solo markdown no se puede realizar la fusi√
 </tr><tr>
  <td>Fila 2 Celda 1</td>
  <td colspan=3 align="center">Fila 2 Celda 2</td>
+ <td>Fila 2 Celda 3</td>
 </tr><tr>
  <td rowspan=3> Fila 3 Celda 1</td>
  <td>Fila 3 Celda 2</td>
